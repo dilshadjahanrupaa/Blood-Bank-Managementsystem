@@ -1,0 +1,50 @@
+#full{
+	width: 100%;
+	height: auto;
+}
+#inner_full{
+	width: 80%;
+	height: auto;
+	margin: auto;
+}
+#header{
+	width: 100%;
+	height: 50px;
+	background-color: #B73030;
+	color: white;
+	text-align: center;
+}
+#body{
+	width: 100%;
+	height: 400px;
+}
+
+#footer{
+	width: 100%;
+	height: 70px;
+	background-color: #B73030;
+	color: white;
+}
+ul li{
+	width: 20%;
+	height: 50px;
+	line-height: 50px;
+	margin-left: 55px;
+	background: #B73030;
+	float: left;
+	list-style: none;
+	border-radius: 10px;
+	text-align: center;
+}
+ul li a{
+	text-decoration: none;
+	color: white;
+}
+#form
+{
+	width: 80%;
+	height: 250px;
+	background-color: #B73030;
+	color: white;
+	border-radius: 10px;
+}
